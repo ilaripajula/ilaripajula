@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilaripajula
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning PyTorch
+- 👀 I'm interested about ML, graph networks, and NLP.
+- 🌐 Data science applied in interdisiplinary contexts motivates me.
 
 <!---
 ilaripajula/ilaripajula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
